@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RayChen1996/react-product-filter/static/css/main.073c9b0a.css",
+    "main.js": "/RayChen1996/react-product-filter/static/js/main.7bbf518d.js",
+    "static/js/787.ce561675.chunk.js": "/RayChen1996/react-product-filter/static/js/787.ce561675.chunk.js",
+    "static/media/logo.svg": "/RayChen1996/react-product-filter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RayChen1996/react-product-filter/index.html",
+    "main.073c9b0a.css.map": "/RayChen1996/react-product-filter/static/css/main.073c9b0a.css.map",
+    "main.7bbf518d.js.map": "/RayChen1996/react-product-filter/static/js/main.7bbf518d.js.map",
+    "787.ce561675.chunk.js.map": "/RayChen1996/react-product-filter/static/js/787.ce561675.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7bbf518d.js"
+  ]
+}
